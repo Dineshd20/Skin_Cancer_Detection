@@ -57,9 +57,22 @@ This project explores the application of **Artificial Intelligence (AI)** in the
 
 ---
 
+## 👁️ Testing Results  
+To demonstrate functionality, here are test images and their classification results:  
+
+### Test Image 1  
+![Test1](images/test1.png)  
+ 
+
+### Test Image 2  
+![Test2](images/test2.png)  
+
+---
+
+
 ## 🔧 How to Run  
 1. Clone this repository:  
-   ```bash
+```bash
    git clone https://github.com/Dineshd20/skin-cancer-detection.git
    cd skin-cancer-detection
 ```
